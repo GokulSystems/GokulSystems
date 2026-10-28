@@ -2,6 +2,16 @@
 
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Animated neon neural-network banner — Hey, I'm Gokul" width="100%" />
+
+<a href="https://github.com/GokulSystems">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=58E6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Builder;Exploring+Federated+Learning;Building+with+Generative+AI;Curious+about+Distributed+Intelligence" alt="Animated typing introduction" />
+</a>
+
+</div>
+
+<div align="center">
+
 # Hey, I'm Gokul 👋
 
 ### AI/ML Engineer in the making · Building practical, distributed intelligence
@@ -18,6 +28,12 @@ I enjoy exploring **Artificial Intelligence, Machine Learning, Federated Learnin
 </div>
 
 ---
+
+## ⚡ My builder mindset
+
+> Curiosity → Experiments → Systems → Learning
+
+I’m especially curious about how intelligent systems can work together—not just how a single model performs. I’m exploring distributed and privacy-aware AI ideas alongside practical application development.
 
 ## 🧭 About me
 
@@ -52,6 +68,12 @@ I enjoy exploring **Artificial Intelligence, Machine Learning, Federated Learnin
 | [**Research & Project Proposals**](https://github.com/GokulSystems/papers-and-project-proposals) | A home for research notes, papers, and project proposals. |
 
 > Project descriptions are brief summaries; check each repository's README for its current scope, setup, and implementation status.
+
+## 🐍 Contribution activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GokulSystems&bg_color=0d1117&color=58e6ff&line=8b7bff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+</div>
 
 ## 📊 GitHub at a glance
 
