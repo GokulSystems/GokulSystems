@@ -46,10 +46,11 @@ I’m especially curious about how intelligent systems can work together—not j
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git and GitHub" />
 </p>
 
-## 🚀 Selected projects
+## 🚀 Selected projects & contributions
 
 | Project | What it explores |
 |---|---|
+| [**AEGIS — Distributed Intelligent Infrastructure**](https://github.com/aegisaifoundation/aegis) | **Contributor.** Working on distributed AI foundations, including node identity and discovery, messaging, task coordination, and state synchronization. |
 | [**Federated Learning**](https://github.com/GokulSystems/federated-learning) | Collaborative model training while keeping data distributed across clients. |
 | [**Retrieval-Augmented Generation**](https://github.com/GokulSystems/retrieval-augmented-generation) | Grounding generative AI responses with retrieved information. |
 | [**QuizWhiz**](https://github.com/GokulSystems/QuizWhiz) | A quiz and learning application project. |
@@ -79,6 +80,7 @@ I’m especially curious about how intelligent systems can work together—not j
 ## 📫 Find me
 
 - 💻 GitHub: [@GokulSystems](https://github.com/GokulSystems)
+- 🛡️ AEGIS project: [aegisaifoundation/aegis](https://github.com/aegisaifoundation/aegis)
 - 🌐 Portfolio: [gokul-personal-portfolio repository](https://github.com/GokulSystems/gokul-personal-portfolio)
 
 ---
