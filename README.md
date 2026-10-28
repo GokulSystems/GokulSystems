@@ -2,16 +2,6 @@
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Animated neon neural-network banner — Hey, I'm Gokul" width="100%" />
-
-<a href="https://github.com/GokulSystems">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1200&color=58E6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Builder;Exploring+Federated+Learning;Building+with+Generative+AI;Curious+about+Distributed+Intelligence" alt="Animated typing introduction" />
-</a>
-
-</div>
-
-<div align="center">
-
 # Hey, I'm Gokul 👋
 
 ### AI/ML Engineer in the making · Building practical, distributed intelligence
